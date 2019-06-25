@@ -12271,7 +12271,7 @@ button.bg-darker:focus
     .mb-lg-0,
     .my-lg-0
     {
-        margin-bottom: 0 !important;
+        /* margin-bottom: 0 !important; */
     }
     .ml-lg-0,
     .mx-lg-0
