@@ -17722,6 +17722,7 @@ textarea[resize='horizontal']
 .navbar-nav .nav-link .nav-link-inner--text
 {
     margin-left: .25rem;
+    text-transform: capitalize;
 }
 
 .navbar-brand
